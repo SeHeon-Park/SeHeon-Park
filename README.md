@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=696969&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=300&section=header&text=Welcome&fontSize=90)
 
 안녕하세요 웹 백엔드 개발자를 꿈꾸는 박세헌 입니다.
 
