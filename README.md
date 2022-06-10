@@ -1,5 +1,5 @@
 ### Hi there 👋
-![SeHeon-Park's GitHub stats](https://github-readme-stats.vercel.app/api?SeHeon-Park=anuraghazra&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SeHeon-Park/SeHeon-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
