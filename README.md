@@ -19,5 +19,5 @@
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100007411651590)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/parkse_98/)
 <br><br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHeon-Park)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHeon-Park&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
