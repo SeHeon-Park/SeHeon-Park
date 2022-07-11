@@ -2,7 +2,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=300&section=header&text=Welcome&fontSize=90)
 
- 안녕하세요! 백엔드 웹 개발자를 꿈꾸는 박세헌입니다!💻 
+ 안녕하세요! 백엔드 개발자를 꿈꾸는 박세헌입니다!💻 
  
 현재는 대학교에 재학중이며 무엇이든 도전하는 마음으로 준비중에 있습니다!<img src = https://user-images.githubusercontent.com/68144687/173014354-9e008b79-02e2-4848-94ee-3e8571e985b1.png width="3%" height="3%"><br><br><br>
  🖥️Tech Stack 🖥️<br>
