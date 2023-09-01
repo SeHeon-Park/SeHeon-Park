@@ -1,7 +1,7 @@
 <div align="center">
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=300&section=header&text=Welcome&fontSize=90)
- 🖥️Tech Stack 🖥️<br>
+ <br>🖥️Tech Stack 🖥️<br>
  `💡 Techs that i've used at least once!`
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/JAVA-008080?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/thymleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
